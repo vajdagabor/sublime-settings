@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Chain of Command",
+		"ChangeQuotes",
+		"Colorsublime",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitCommitMsg",
+		"GitHubinator",
+		"HTML2Haml",
+		"HTML5",
+		"Markdown Preview",
+		"MarkdownHighlighting",
+		"MoveTab",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Processing",
+		"RegReplace",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Skins",
+		"SyncedSideBar",
+		"Theme - Spacegray",
+		"WriteGooder"
+	]
+}
